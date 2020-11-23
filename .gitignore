@@ -1,3 +1,6 @@
+Data/ratings.csv
+Data/ratings_new.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
